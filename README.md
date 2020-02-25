@@ -1,10 +1,15 @@
 # v2rayN
 
-### How to use
-- Download exe from release download
-- Also need to download v2ray core in the same folder
-- Run v2rayN.exe
+Modification:
+added auto update subscription on app launch + bug fixes
+Faster speed
+More stability
 
-### Requirements  
-- Microsoft [.NET Framework 4.6](https://docs.microsoft.com/zh-cn/dotnet/framework/install/guide-for-developers) or higher
-- Project V core [https://github.com/v2ray/v2ray-core/releases](https://github.com/v2ray/v2ray-core/releases)
+
+修改：
+
+在应用程序启动时添加了自动更新订阅+错误修复
+
+更快的速度
+
+更稳定
